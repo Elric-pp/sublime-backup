@@ -1,0 +1,1 @@
+cp -r C:/Users/Administrator/AppData/Roaming/Sublime\ Text\ 3/Packages/User ./
