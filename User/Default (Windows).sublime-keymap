@@ -22,5 +22,6 @@
     { "keys": ["ctrl+l"], "command": "move", "args": {"by": "word_ends", "forward": true} },
     { "keys": ["ctrl+alt+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
     { "keys": ["ctrl+alt+m"], "command": "alignment" },
-    { "keys": ["ctrl+alt+k"], "command": "un_pretty_json" }
+    { "keys": ["ctrl+alt+k"], "command": "un_pretty_json" },
+    { "keys": ["alt+f"], "command": "show_panel", "args": {"panel": "find", "reverse": false} },
 ]
